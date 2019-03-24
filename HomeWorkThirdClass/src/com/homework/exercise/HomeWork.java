@@ -17,6 +17,9 @@ public class HomeWork {
 			System.out.print (i +" ");
 
 			System.out.print (i +" ");
+
+
+			System.out.print (i +" ");
 		}
 
 	}
